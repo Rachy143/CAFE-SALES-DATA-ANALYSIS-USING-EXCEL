@@ -33,3 +33,8 @@ Through these steps, I transformed the raw, inconsistent dataset into a clean an
 
 ## Dashboard
 <img width="1895" height="844" alt="CAFE DASHBOARD" src="https://github.com/user-attachments/assets/94f19b5e-88e2-4542-b185-7210d92b665a" />
+
+## Conclusion
+This project turned a messy sales dataset into a clean, reliable source of insights for The Teacup Haven Café. The final analysis and dashboard highlight key trends, top-selling items, and customer preferences, helping the café make smarter, data-driven decisions.
+
+

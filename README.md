@@ -13,3 +13,5 @@ The Teacup Haven Café wants to create an annual sales report to review its perf
 -	Which payment methods were most popular among customers?
 -	Are there any noticeable sales trends across different days of the week?
 -	Which items generate the highest total revenue (not just quantity)?
+
+- Dashbord interaction <a href="https://github.com/Rachy143/CAFE-SALES-DATA-ANALYSIS-USING-EXCEL/blob/main/CAFE%20DASHBOARD.png">View Dashboard<a/>
